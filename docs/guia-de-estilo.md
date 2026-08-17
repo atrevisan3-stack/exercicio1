@@ -1,1 +1,2 @@
 - Frases curtas, na voz ativa.
+- Títulos de filmes em itálico.
